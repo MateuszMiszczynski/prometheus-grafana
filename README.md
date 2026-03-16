@@ -116,7 +116,9 @@ Below are screenshots of the monitoring dashboard showing key metrics:
 <img width="945" height="532" alt="image" src="https://github.com/user-attachments/assets/73e1c90b-d9c8-4529-bc71-346b04ce6a9f" />
 
 
-And here are additional screenshots from other components of the monitoring stack.
+
+
+# And here are additional screenshots from other components of the monitoring stack.
 
 # Prometheus
 
